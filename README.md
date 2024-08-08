@@ -5,7 +5,7 @@
   1. create telegram bot token
   2. create replit account.
   3. create reple => [video](https://)
-  4. open shell and type
+  4. open shell and type => [video]()
 ```
  npm install node-telegram-bot-api
 
